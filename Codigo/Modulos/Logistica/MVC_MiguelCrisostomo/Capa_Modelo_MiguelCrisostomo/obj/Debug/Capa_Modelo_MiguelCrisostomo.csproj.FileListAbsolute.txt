@@ -1,0 +1,5 @@
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Modelo_MiguelCrisostomo\bin\Debug\Capa_Modelo_MiguelCrisostomo.dll
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Modelo_MiguelCrisostomo\bin\Debug\Capa_Modelo_MiguelCrisostomo.pdb
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Modelo_MiguelCrisostomo\obj\Debug\Capa_Modelo_MiguelCrisostomo.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Modelo_MiguelCrisostomo\obj\Debug\Capa_Modelo_MiguelCrisostomo.dll
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Modelo_MiguelCrisostomo\obj\Debug\Capa_Modelo_MiguelCrisostomo.pdb

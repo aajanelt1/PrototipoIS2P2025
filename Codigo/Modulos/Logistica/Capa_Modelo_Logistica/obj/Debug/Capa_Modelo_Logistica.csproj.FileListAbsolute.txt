@@ -1,0 +1,5 @@
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\bin\Debug\Capa_Modelo_Logistica.dll
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\bin\Debug\Capa_Modelo_Logistica.pdb
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.dll
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.pdb

@@ -1,0 +1,2 @@
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\TestCotizacion\obj\Debug\TestCotizacion.csproj.AssemblyReference.cache
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\TestCotizacion\obj\Debug\TestCotizacion.csproj.CoreCompileInputs.cache
