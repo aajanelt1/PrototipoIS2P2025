@@ -1,0 +1,2 @@
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Controlador_Cotizacion\obj\Debug\Capa_Controlador_Cotizacion.csproj.AssemblyReference.cache
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Controlador_Cotizacion\obj\Debug\Capa_Controlador_Cotizacion.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\bin\Debug\Capa_Controlador_MiguelCrisostomo.dll
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\bin\Debug\Capa_Controlador_MiguelCrisostomo.pdb
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\bin\Debug\Capa_Modelo_MiguelCrisostomo.dll
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\bin\Debug\Capa_Modelo_MiguelCrisostomo.pdb
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.csproj.AssemblyReference.cache
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.csproj.CopyComplete
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.dll
+C:\Users\gerar\OneDrive\Escritorio\sssssss\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.pdb
